@@ -376,6 +376,12 @@ header .navbar ul li a:hover{
 .about .skills .progress:nth-child(4) .bar span{
     width:70%;
 }
+.about .skills .progress:nth-child(5) .bar span{
+    width:90%;
+}
+.about .skills .progress:nth-child(6) .bar span{
+    width:70%;
+}
 /* End About Section CSS */
 
 /* Start Service Section CSS */
